@@ -1,7 +1,8 @@
 # Hi 👋, I'm Rajesh Rachuri
 
 💻 Aspiring Backend Developer  
-🚀 Currently learning Node.js & building real-world projects  
+🚀 Currently learning Node.js & building real-world projects
+💡 Passionate about building scalable backend systems
 ⚙️ Interested in DevOps and cloud technologies  
 🌱 Skills: JavaScript, Node.js, Express  
 
@@ -20,4 +21,4 @@
 To become a skilled backend developer and explore DevOps & cloud technologies
 
 ## 📫 Contact 
-email: rachurirajesh2003@gmail.com
+- Email: yourmail@gmail.com
